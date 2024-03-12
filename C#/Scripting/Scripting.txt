@@ -1,0 +1,1 @@
+C#, a compiled language, offers scripting capabilities through tools like Roslyn scripting API and PowerShell, aiding in automation, quick prototyping, and enhancing existing applications' functionality.
